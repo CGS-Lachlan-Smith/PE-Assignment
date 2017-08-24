@@ -1,0 +1,61 @@
+body {
+    background-image: url(Images/car_pic.jpg);
+    background-size: 1100px 700px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#title{
+    font-size: 18px;
+    font-family: sans-serif;
+    position: relative;
+    margin-right: 115px;
+    margin-left: 115px;
+    padding-bottom: 1px;
+    background-color: white;
+}
+
+#content{
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 500px;
+    font-family: sans-serif;
+    margin-left: 115px;
+    margin-right: 115px;
+
+}
+
+#contenttext{
+    text-align: left;
+    padding-left: 50px;
+    font-family: sans-serif;
+}
+
+#contenttable{
+    font-family: sans-serif;
+    font-weight: normal;
+    margin: auto;
+}
+
+
+a:link{
+    text-decoration: none;
+    color: #cc0000;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #cc0000;
+}
+
+a:hover{
+    text-decoration: none;
+    color: #cc0000;
+}
+
+a:active{
+    text-decoration: none;
+    color: #cc0000;
+}
